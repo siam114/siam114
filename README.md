@@ -1,6 +1,8 @@
+### Hi, I'm  SM Siam   👋
+
 ![[Banner Image](URL_OF_YOUR_BANNER_IMAGE) <!-- Replace with your banner image URL -->
 ](https://raw.githubusercontent.com/siam114/siam114/refs/heads/main/siam.jpg)
-# SM Siam  
+
 **Frontend Developer**
 
 ---
@@ -46,3 +48,6 @@ Feel free to reach out to me through the following social platforms:
 <p align="left">✨ Creating bugs since: 2022 (or the year you started coding).<br>📚 I'm currently learning: Next.js and advanced React.js concepts.<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: I once spent hours debugging only to find a missing semicolon!</p>
 
 ---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siam114)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siam114)](https://github.com/anuraghazra/github-readme-stats)
