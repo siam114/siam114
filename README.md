@@ -45,7 +45,7 @@ Feel free to reach out to me through the following social platforms:
 
 
 ###
-
+### 📌 Current Activities
 <p align="left">✨ Creating bugs since: 2022 (or the year you started coding).<br>📚 I'm currently learning: Next.js and advanced React.js concepts.<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: I once spent hours debugging only to find a missing semicolon!</p>
 
 ---
