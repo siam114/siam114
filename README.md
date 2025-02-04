@@ -43,6 +43,14 @@ Feel free to reach out to me through the following social platforms:
 
 ---
 
+### 📊 GitHub Stats
+![SM Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
+
+
 ###
 
 <p align="left">✨ Creating bugs since: 2022 (or the year you started coding).<br>📚 I'm currently learning: Next.js and advanced React.js concepts.<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: I once spent hours debugging only to find a missing semicolon!</p>
