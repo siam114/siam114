@@ -24,7 +24,7 @@ Feel free to reach out to me through the following social platforms:
 - [X.com](https://x.com/SMSiam233877)  
 - [Facebook](https://www.facebook.com/sumsuzzaman.siam)  
 - [Discord](https://discord.com/channels/@me)  
-- [WhatsApp](https://web.whatsapp.com/)  
+- [WhatsApp](https://wa.me/8801783030598) 
 
 ---
 
