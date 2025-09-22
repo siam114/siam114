@@ -1,9 +1,9 @@
-### *Hi, I'm SM Siam* 👋
+### *Hi, I'm SM Sumsuzzaman Siam* 👋
 
-***Frontend Developer***
+***Frontend Developer || MERN Developer || Web Developer || Full-Stack Developer***
 
-![[Banner Image](URL_OF_YOUR_BANNER_IMAGE) <!-- Replace with your banner image URL -->
-](https://raw.githubusercontent.com/siam114/siam114/refs/heads/main/siam.jpg)
+[![Banner Image](https://github.com/siam114/siam114/blob/main/github%20banner.png)](https://github.com/siam114/siam114/blob/main/github%20banner.png)
+
 
 
 ---
