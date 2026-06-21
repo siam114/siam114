@@ -16,7 +16,7 @@
 
 ## 💎 About Me
 
-I'm a **Shopify Developer & Full Stack MERN Developer** passionate about building **fast, scalable, and conversion-focused web applications**.
+I'm a **Shopify Developer & Full Stack MERN Developer** focused on building **fast, scalable, and conversion-driven web applications**.
 
 * 💼 Working at **IlmifyTech Agency** as Shopify Developer
 * 🛒 Specialized in Shopify Store Development & Customization
@@ -64,7 +64,7 @@ I'm a **Shopify Developer & Full Stack MERN Developer** passionate about buildin
 
 ## 🎯 Current Focus
 
-```txt id="q9xv4p"
+```txt
 ✓ Shopify Theme Development (Liquid)
 ✓ Shopify Store Optimization & CRO
 ✓ Advanced React & Next.js Applications
@@ -96,16 +96,6 @@ I'm a **Shopify Developer & Full Stack MERN Developer** passionate about buildin
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siam114&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -116,18 +106,17 @@ I'm a **Shopify Developer & Full Stack MERN Developer** passionate about buildin
 
 ---
 
-## 🧠 Developer Mindset
+## 🌟 Extra Highlights
 
-```javascript id="mindset1"
-const developer = {
-  name: "Siam",
-  role: "Shopify & MERN Developer",
-  company: "IlmifyTech Agency",
-  passion: "Building scalable e-commerce experiences",
-  focus: ["Performance", "UX", "Scalability"],
-  goal: "Become a world-class Full Stack Developer"
-};
-```
+<div align="center">
+
+💼 Shopify Expert
+⚛️ React & Next.js Developer
+🚀 MERN Stack Engineer
+🛒 E-commerce Specialist
+🔥 Performance-focused Developer
+
+</div>
 
 ---
 
