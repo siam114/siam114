@@ -73,24 +73,22 @@ I'm a **Shopify Developer & Full Stack MERN Developer** focused on building **fa
 ✓ Performance Optimization
 ✓ UI/UX Improvement for E-commerce
 ```
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siam114&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siam114&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=siam114&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Streak -->
+<img width="49%" src="https://streak-stats.demolab.com?user=siam114&theme=tokyonight&hide_border=true" />
 
-</div>
+<br><br>
 
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam114&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam114&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
