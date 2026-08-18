@@ -44,7 +44,7 @@ I'm a **Shopify Developer & Full Stack MERN Developer** focused on building **fa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" />
 
 </div>
 
