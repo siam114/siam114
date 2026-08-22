@@ -79,8 +79,6 @@ I'm a **Shopify Developer & Full Stack MERN Developer** focused on building **fa
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siam114&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <!-- GitHub Streak -->
 <img width="49%" src="https://streak-stats.demolab.com?user=siam114&theme=tokyonight&hide_border=true" />
